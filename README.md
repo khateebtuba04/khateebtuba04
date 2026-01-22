@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>---<br><br>### 👋 About Me<br><br>* 🔭 **I’m currently working on:**<br>  Data science and UI/UX design projects, focusing on real-world problem solving.<br><br>* 🤝 **I’m looking to collaborate on:**<br>  Beginner-friendly data science, machine learning, and UI/UX design projects.<br><br>* 🆘 **I’m looking for help with:**<br>  Improving project structure, real-world datasets, and industry-ready workflows.<br><br>* 🌱 **I’m currently learning:**<br>  Machine learning, data analysis, and user-centered UI/UX design.<br>
+🔭 **I’m currently working on:**<br>  Data science and UI/UX design projects, focusing on real-world problem solving.<br><br>* 🤝 **I’m looking to collaborate on:**<br>  Beginner-friendly data science, machine learning, and UI/UX design projects.<br><br>* 🆘 **I’m looking for help with:**<br>  Improving project structure, real-world datasets, and industry-ready workflows.<br><br>* 🌱 **I’m currently learning:**<br>  Machine learning, data analysis, and user-centered UI/UX design.<br>
 
 
 ## 🌐 Socials:
